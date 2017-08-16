@@ -1,5 +1,5 @@
 # Speech - Activated GUI
-![alt text](https://onedrive.live.com/?cid=6E68E8BA03D8E3A5&id=6E68E8BA03D8E3A5%217471&parId=6E68E8BA03D8E3A5%21106&o=OneUp)
+![alt text](https://www.dropbox.com/s/6wnb3nfk9bd1jtf/GUI%20MockUp.png)
 Implemented using Python 2.7.11 using packages like pygame, sys, speech_recognition.
  In this project we activate GUI elements like light blinking and fan rotation using speech commands. To run this ( SAGUI.py ) python script first you have to install Python version 2.7.11 (on PC or Mac) with a built-in mic or working external microphone. The following libraries need to installed using Python's Package Installer.
 - pip install pygame
